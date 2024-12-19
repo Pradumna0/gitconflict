@@ -1,10 +1,6 @@
 #Changes here 
 #new cahnges
-<<<<<<< HEAD
 #Another change from master branch
-=======
-#Another one file from newBranch
->>>>>>> newBranch
 #This changes From Master branch
 #Git merge with cli
 from flask import Flask, jsonify, request
