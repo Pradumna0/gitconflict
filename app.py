@@ -3,6 +3,7 @@
 #Another one file from newBranch
 #This changes From Master branch
 #Git merge with cli
+#check for git reset
 from flask import Flask, jsonify, request
 import redis
 import json
